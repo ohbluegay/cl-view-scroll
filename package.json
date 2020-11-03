@@ -1,0 +1,17 @@
+{
+  "name": "cl-view-scroll",
+  "version": "1.0.2",
+  "description": "elem scroll to view",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+
+  },
+  "keywords": [
+    "cl"
+  ],
+  "author": "cl",
+  "license": "ISC"
+}
